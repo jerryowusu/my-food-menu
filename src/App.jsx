@@ -33,3 +33,5 @@ function App() {
 }
 
 export default App
+
+"homepage": "https://jerryowusu.github.io/my-food-menu",
